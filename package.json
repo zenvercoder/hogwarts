@@ -1,0 +1,25 @@
+{
+  "name": "hogwarts",
+  "version": "1.0.0",
+  "description": "Lets rebuild everyone's favorite School of Witchraft & Wizardry! If you've somehow managed to avoid knowing anything about the Harry Potter books, the Hogwarts school is just like a normal school... mostly.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenvercoder/hogwarts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zenvercoder/hogwarts/issues"
+  },
+  "homepage": "https://github.com/zenvercoder/hogwarts#readme",
+  "dependencies": {
+    "knex": "^0.11.10",
+    "pg": "^6.1.0"
+  }
+}
+
